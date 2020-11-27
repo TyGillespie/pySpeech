@@ -1,6 +1,6 @@
 # test.py
 # pySpeech test script.
-# 
+#
 # Copyright 2020 Ty Gillespie. All rights reserved.
 # MIT Licensed.
 
